@@ -30,7 +30,7 @@ Die Web-App stellt neben einem GUI auch eine http json API bereit, über die der
     {
       "text": {
         "startIndex": 2,
-        "content": "Joachim",
+        "content": "Mensch",
         "color": [0, 255, 0]
       },
       "lines": [
